@@ -111,7 +111,7 @@ $list = mysqli_fetch_all($product->getFeaturedProducts(), MYSQLI_ASSOC);
                 <a href="productList.php">Sản Phẩm</a>
             </li>
         </ul>
-        <p class="copyright">STORENOW @ 2021</p>
+        <p class="copyright">STORENOW @ 2022</p>
     </footer>
 </body>
 
